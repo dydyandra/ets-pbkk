@@ -31,9 +31,6 @@
               <a class="nav-link active" aria-current="page" href="/record">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/article">All</a>
-            </li>
-            <li class="nav-item">
               <a class="nav-link" href="/record">Rekam Medis</a>
             </li>
             <li class="nav-item">
